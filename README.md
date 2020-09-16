@@ -1,7 +1,7 @@
 # pandas-challenge
 
-Pandas is an open-source Python Library, providing powerful tools for data manipulation and analytics. 
-In this assignment, I have utilized the Pandas to manipulate, process, model the give dataset (students dataset and schools dataset) 
+Pandas is an open-source Python library, providing powerful tools for data manipulation and analytics. 
+In this assignment, I have utilized Pandas to manipulate, process, model the give dataset (students dataset and schools dataset) 
 to generate meaningful statistic, reports, details analysis from district overview such as total school budgets, budget per student, 
 average performing scores in math and reading, percentage of students with passing rate and performance by schools size, 
 type (charter or district) and narrowing to actual performance, KPIs by individual school and grade levels. 
