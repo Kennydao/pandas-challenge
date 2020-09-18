@@ -22,7 +22,7 @@ Top Performing Schools (by % overall passing)
 		4)	Griffin High School
 		5)	Wilson High School
 	B) Bottom Five Performing Schools by % overall passing rate are as follows:
-		1)	Ford High School
+		1)	Hernandez High School
 		2)	Johnson High School
 		3)	Huang High School
 		4)	Figueroa High School
