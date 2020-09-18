@@ -14,7 +14,7 @@ which represents 80.4% of overall passing rate.
 School Summary: This report provides a quick view on budgets allocated by schools with details information relating to 
 number of students, budgets spending per student, average math and reading score as well as overall passing rate at the school.
 
-Top Performing Schools (by % overall passing)
+Top Performing Schools (by % overall passing):
 	A) Top Five Performing Schools by % overall passing rate are as follows:
 		1)	Cabrera High School
 		2)	Thomas High School
